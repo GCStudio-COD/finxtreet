@@ -1,7 +1,7 @@
 const defaultConfig = {
     hero_headline: "Trade With Discipline.",
     hero_subheadline: "Learn Like a Professional.",
-    hero_description: "Finxtreet Trading Café is a mentor-guided Forex academy and live trading environment built for those who value skill, structure, and long-term success — not shortcuts.",
+    hero_description: "Finxtreet Academy is mentor-guided educational academy and live trading environment built for those who value skill, structure, and long-term success not shortcuts.",
     cta_primary: "Start Your Trading Journey →",
     cta_secondary: "Book a Free Orientation",
     mission_title: "Why We Exist",
